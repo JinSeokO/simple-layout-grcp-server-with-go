@@ -4,4 +4,8 @@
 
 ![img.png](img/layer.png)
 
+## 기본적인 아키텍쳐
+
+헥사그날 아키텍트
+
 [1]: https://www.youtube.com/watch?v=MpFog2kZsHk
